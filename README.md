@@ -1,4 +1,5 @@
   The study used R as the analysis tool and MusicOSet as the dataset to study the factors that may affect the popularity of a song and build two regression prediction models to predict the popularity of a song. The study performed preprocessing operations such as cleaning, recoding, and merging of data, and analysed the variables with correlation analysis, visualization, and logistic regression, and identified variables that have significant correlation with the popularity of a song and predicted the popularity of a song with a high success rate. This study identified the variables that have significant correlation on the popularity of songs and predicted whether the songs are popular or not with a high success rate. The results of this study are useful for establishing recommendation algorithms for music platforms and guiding creators to produce highly popular songs.
+  
   Research questions:
   1. Which song features are significantly correlated with song popularity?
   2. Which artist features are significantly correlated with song popularity?
