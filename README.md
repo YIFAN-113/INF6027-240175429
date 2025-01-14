@@ -13,4 +13,5 @@
 
 
   How to ues this R code:
+  
   To use the code for this study, you will need to download the R language and R Studio in your computer. You will also need to download the MusicOSet dataset. If there are packages that won't load, this means you need to download them into Rstudio before loading them. All code is clearly commented, please read it carefully before running.
