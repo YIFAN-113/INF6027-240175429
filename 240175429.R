@@ -288,5 +288,5 @@ pred_prob <- predict(logit_model, test_words, s = tail(logit_model$lambda, 1), t
 pred_labels <- ifelse(pred_prob > 0.5, 1, 0)
 
 # Calculating model prediction accuracy
-accuracy <- mean(pred_labels == y_test)
+accuracy <- mean(pred_labels == test_pop)
 print(paste("Accuracy:", accuracy))
